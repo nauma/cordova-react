@@ -1,5 +1,5 @@
 ## cordova-react
-Create cross-platform application using React.js
+Create cross-platform application using Cordova & React.js
 
 Install all packages:
 ```
